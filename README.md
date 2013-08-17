@@ -3,7 +3,7 @@
 HTML, JSON & Text Error Response Handling Machine.
 
 ```javascript
-var es = require('express-errorstrap);
+var es = require('express-errorstrap');
 
 app.configure(function() {
   app.use(app.router);
